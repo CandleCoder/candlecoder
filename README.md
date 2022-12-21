@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/manikant-upadhyay-45a08ab7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/manikant-upadhyay-45a08ab7" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4519138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4519138" height="30" width="40" /></a>
 <a href="https://instagram.com/immanikant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immanikant" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@travelwithmani8617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@travelwithmani8617" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@travelwithmani8617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@travelwithmani8617" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
